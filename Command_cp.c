@@ -3,7 +3,7 @@
 #include<unistd.h>
 #include<string.h>
 
-// ./cpx        Source.txt  Dest.txt
+// ./cdx        Source.txt  Dest.txt
 //  argv[0]    	argv[1]     argv[2]
 
 // 	argv = 3
